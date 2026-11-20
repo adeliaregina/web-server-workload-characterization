@@ -1,0 +1,6 @@
+Component,Actual result
+Pandas,3.1.1
+Input rows,1891715
+Parse time (s),17.15
+Aggregate time (s),0.45
+File size (MB),205.24

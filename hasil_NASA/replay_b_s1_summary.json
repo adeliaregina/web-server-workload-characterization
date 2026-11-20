@@ -1,0 +1,11 @@
+{
+ "requests": 57543,
+ "duration_s": 600.0,
+ "achieved_rps": 95.91,
+ "requested_peak_rps": 300.0,
+ "p50_ms_all": 9.55,
+ "p95_ms_all": 39.43,
+ "p95_ms_success": 39.43,
+ "pct_5xx": 0.0,
+ "pct_status0_timeout_or_error": 0.0
+}

@@ -1,0 +1,4 @@
+percent,rows,size_mb,parse_s,aggregate_s,total_process_s,peak_rss_mb
+25,602156,58.15,5.66,0.09,6.45,n/a
+50,1204312,116.43,13.04,0.18,14.2,n/a
+100,2408625,233.44,24.78,0.37,25.95,n/a

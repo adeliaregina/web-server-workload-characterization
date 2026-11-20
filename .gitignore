@@ -1,0 +1,16 @@
+# Raw archived logs are intentionally excluded from this repository.
+NASA_access_log_Jul95
+NASA_access_log_Jul95.gz
+usask_access_log
+usask_access_log.gz
+# Local downloads / private logs
+raw_data/
+private_data/
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+# Temporary generated benchmark output can be recreated; committed benchmark CSV is kept.

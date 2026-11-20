@@ -1,0 +1,8 @@
+Measure,Regular,Spike
+Input rows (whole file),1891715,1891715
+Failed to parse (whole file),10,10
+Parsed rows in window,42700,87826
+Application requests,14656,36841
+Static assets,28044,50985
+Complete/planned minutes,600/600,600/600
+Valid duration/application,0/14656,0/36841

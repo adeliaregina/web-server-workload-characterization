@@ -1,0 +1,8 @@
+Measure,Break,Term
+Input rows (whole file),2408625,2408625
+Failed to parse (whole file),90,90
+Parsed rows in window,5364,12289
+Application requests,3700,6903
+Static assets,1664,5386
+Complete/planned minutes,600/600,600/600
+Valid duration/application,0/3700,0/6903

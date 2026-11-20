@@ -1,0 +1,5 @@
+Measure,Estimate,"95% interval (block bootstrap, 10-min blocks)"
+"Median rate, Regular (req/min)",24.0,22.00 to 25.00
+"Median rate, Spike (req/min)",54.0,50.00 to 60.00
+Ratio of medians (Spike/Regular),2.25,2.040 to 2.565
+Difference in 5xx proportion (percentage points),0.005,0.000 to 0.018

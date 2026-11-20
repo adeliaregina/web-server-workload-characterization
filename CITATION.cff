@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and credit the original Internet Traffic Archive datasets."
+title: "Reproducible Workload Characterization of Web Server Logs for Nonfunctional Requirements: Validation on Two Public Traces with Test-Bed Replay"
+type: software
+authors:
+  - family-names: Putri
+    given-names: Adelia Regina
+  - family-names: Fadel
+    given-names: Sean
+  - name: Sukriadi
+version: 0.1.0

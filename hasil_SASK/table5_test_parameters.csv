@@ -1,0 +1,8 @@
+Parameter,Break,Term
+Window,1995-07-18 08:00:00-06:00 to 1995-07-18 18:00:00-06:00,1995-10-24 08:00:00-06:00 to 1995-10-24 18:00:00-06:00
+Initial rate (req/min),5,4
+Median rate (req/min),6.0,11.0
+Peak rate (req/min),21,31
+Peak time,1995-07-18 12:19:00-06:00,1995-10-24 10:27:00-06:00
+Minutes at >=90% of peak,2,5
+Route mix at peak minute (%),"{'/~macphed': 28.6, '/~scottp': 23.8, '/dcs': 19.0, '/cgi-bin': 14.3, '/~lowey': 14.3}","{'/dcs': 29.0, '/': 16.1, '/~reevesm': 16.1, '/search': 6.5, '/~ladd': 6.5, '/departments.html': 3.2, '/alternate_views.html': 3.2, '/agriculture': 3.2}"

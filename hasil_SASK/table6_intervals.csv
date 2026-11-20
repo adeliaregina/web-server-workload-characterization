@@ -1,0 +1,5 @@
+Measure,Estimate,"95% interval (block bootstrap, 10-min blocks)"
+"Median rate, Break (req/min)",6.0,5.00 to 6.00
+"Median rate, Term (req/min)",11.0,10.00 to 12.00
+Ratio of medians (Term/Break),1.833,1.667 to 2.200
+Difference in 5xx proportion (percentage points),0.0,0.000 to 0.000
